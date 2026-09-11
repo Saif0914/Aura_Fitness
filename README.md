@@ -1,5 +1,7 @@
 # AURA Athletics & Performance Club
 
+![Aura Fitness](./Aura_Fitness.png)
+
 A high-performance, contemporary fitness and athletic club web application built with **React**, **TypeScript**, and **Tailwind CSS**.
 
 ## Features
