@@ -2,7 +2,7 @@
 
 ![Aura Fitness](./Aura_Fitness.png)
 
-Live link: [Aura Fitness](https://saif-aurafitness.netlify.app)
+## Live link: [Aura Fitness](https://saif-aurafitness.netlify.app)
 
 A modern, high-performance web application designed for **AURA FITNESS**, an elite 30,000 sq. ft. athletic training facility, biomechanical performance center, and recovery sanctuary. Built with **React 19**, **TypeScript**, **Tailwind CSS v4**, and **Motion**.
 
